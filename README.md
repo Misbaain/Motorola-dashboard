@@ -57,4 +57,4 @@ This Power BI dashboard provides an interactive and insightful analysis of mobil
 
 
 ### 5. **Screenshot**
-![Dashboard Preview](https://github.com/Misbaain/Covid19-Dashboard/blob/main/Dashboard%20img.png)
+![Dashboard Preview](https://github.com/Misbaain/Motorola-dashboard/blob/main/Dashboard%20image.png)
